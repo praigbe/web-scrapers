@@ -1,2 +1,2 @@
 # web-scrapers
-A number of web scrapers i made using python.
+A simple light weight web scraper made with python.
